@@ -1,5 +1,6 @@
 # Keyboard-remap-realtime-Lite
 Keyboard remap realtime Lite senior
+Only 5 files can Realtime to update the keyboard’s key,You can use it online or localization.
 A Lot of theme:
 
 
